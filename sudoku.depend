@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1663778289 source:d:\projects\c\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operations.h"
+	"design.h"
+
+1663797396 source:d:\projects\c\sudoku\operations.c
+	"operations.h"
+
+1663838032 source:d:\projects\c\sudoku\design.c
+	"design.h"
+	<time.h>
+	<windows.h>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+
+1663709346 d:\projects\c\sudoku\operations.h
+
+1663709674 d:\projects\c\sudoku\design.h
+	<conio.h>
+

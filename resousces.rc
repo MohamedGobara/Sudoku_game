@@ -1,0 +1,2 @@
+
+MAIN ICON "a.ico"
